@@ -37,8 +37,6 @@ def kalman_filter(z_meas, x_esti, P,A,H,R,Q):
 
 
 
-
-
 def what_is_kalmanfilter():
 
     velocity =  1.0 # m/s
